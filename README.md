@@ -1,5 +1,5 @@
 # yuray
-Yavuz Uray OPS435 - NDD
-My name is Yavuz.
+Yavuz Uray OPS435 - NDD.
 This is for Lab0.
+My name is Yavuz.
 I think this course gonna be hard.
